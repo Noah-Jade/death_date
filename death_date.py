@@ -18,6 +18,7 @@ if question == "Yes":
 else:
     print("Your fate remains a mystery " + name + ".")
 
+input("Press [Enter] to continue.")
 
 # def age():
 #    return today.year - int(birth)
